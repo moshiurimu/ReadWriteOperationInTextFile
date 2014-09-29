@@ -1,0 +1,9 @@
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csprojResolveAssemblyReference.cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.FileReadWriteUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
